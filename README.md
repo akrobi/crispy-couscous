@@ -1,25 +1,27 @@
 
-![Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIF.4ly%252b3sKPliW4JvPDpQD6rQ%26pid%3DApi&f=1&ipt=489dd35435a58098705d3756c9f41824bb9353e0ee81f585841366ad65a7343b&ipo=images)
+![Logo](/image.png)
 
 
 # Web3 Decentralised App (dApp)
 
 Create an end-to-end dApp on the Algorand blockchain that will:
-- help 10 academy generate and distribute Non-Fungible Tokens (NFTs) as certificates 
-    - these will represent the successful completion of a weekly challenge to trainees
-- allow trainees to interact with a smart contract to perform pre-defined actions 
+- Have two accounts at minimum; Manager and Recepient
+- Have managers generate and distribute completion certificates as Non-Fungible Tokens (NFTs) 
+- Allow recepients the option to opt-in or opt-out of receiving the NFTs
+
+
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/akrobi/dApp
+  git clone https://github.com/akrobi/crispy_couscous
 ```
 
 Go to the project directory
 
 ```bash
-  cd dApp
+  cd crispy-couscous
 ```
 
 Install dependencies
